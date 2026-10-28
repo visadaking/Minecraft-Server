@@ -1,0 +1,5 @@
+﻿# restart-command.txt (first non-comment line) is run with bash -lc after
+# update-server.ps1 swaps server.jar, so the server comes back on its own.
+# Example:
+# systemctl restart minecraft
+# ./start.sh

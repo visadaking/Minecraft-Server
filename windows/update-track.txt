@@ -1,0 +1,5 @@
+# Auto-update track for update-server.ps1
+# First non-comment line decides what the watcher installs (never downgrades):
+#   release  = newest stable release (recommended; e.g. 26.4 final when it ships)
+#   snapshot = newest 26.4 snapshot (players must switch their launcher to it!)
+release

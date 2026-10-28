@@ -1,0 +1,3 @@
+﻿# Bot mode (best experience; two-way chat needs this):
+# token = <bot token>
+# channel = <channel id>

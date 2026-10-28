@@ -1,0 +1,4 @@
+# Public server address shown in the Discord messages.
+# Managed by the control panel (gui-server.ps1).
+
+vivo-colt.tun.ply.gg

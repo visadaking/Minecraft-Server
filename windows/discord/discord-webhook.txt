@@ -1,0 +1,1 @@
+﻿# paste an invite webhook URL here (used when no bot token is set)
